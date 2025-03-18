@@ -1,0 +1,14 @@
+width=1200
+mode=drun
+hide_search=true
+allow_images=true
+key_up=Up,k
+key_down=Down,j
+key_left=Left.h
+key_right=Right,l
+key_forward=Tab,Control+j
+key_backward=Shift+Tab,Control+k
+key_expand=h,l
+key_hide_search=v
+key_pgdn=n
+key_pgup=u

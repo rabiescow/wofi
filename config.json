@@ -1,0 +1,14 @@
+{
+  "style": "style.css",
+  "mode": "drun",
+  "width": 800,
+  "xoffset": 0,
+  "yoffset": 0,
+  "normal_window": true,
+  "allow_images": true,
+  "allow_markup": true,
+  "term": "ghostty",
+  "hide_scroll": true,
+  "location": "left",
+  "key_up": ""
+}
